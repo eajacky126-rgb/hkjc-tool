@@ -1,0 +1,34 @@
+name: HKJC Automated Sync
+
+on:
+  schedule:
+    - cron: '15 14 * * *' # Runs at 10:15 PM Hong Kong Time
+  workflow_dispatch: # Allows you to run it manually from iPad
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout hkjc-tool repo
+        uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install dependencies
+        run: pip install pandas requests lxml
+        
+      - name: Run Scraper
+        run: python scraper.py
+        
+      - name: Commit Data to Repo
+        run: |
+          git config --global user.name "HKJC-Bot"
+          git config --global user.email "bot@hkjc.com"
+          git add data/latest_results.csv
+          git commit -m "Automated update of race results" || exit 0
+          git push
