@@ -1,6 +1,7 @@
+streamlit
 pandas
 numpy
 lightgbm
-selenium
-webdriver-manager
 scikit-learn
+cloudscraper
+lxml
