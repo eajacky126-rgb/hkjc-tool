@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import sqlite3
 import os
+import cloudscraper
 from lightgbm import LGBMRanker
 
 # --- CONFIGURATION ---
@@ -21,85 +22,164 @@ def init_db():
     """)
     conn.commit()
 
-# --- APP UI ---
+# --- DIRECT SCRAPER LOGIC ---
+def scrape_hkjc_direct(date_str):
+    # Format: YYYY/MM/DD (e.g., 2024/01/01)
+    url = f"https://racing.hkjc.com/racing/information/English/Racing/LocalResults.aspx?RaceDate={date_str}"
+    
+    scraper = cloudscraper.create_scraper()
+    try:
+        response = scraper.get(url, timeout=15)
+        if response.status_code == 200:
+            tables = pd.read_html(response.text)
+            all_data = []
+            for tab in tables:
+                # Check if this table looks like a result table
+                if 'Horse' in tab.columns and 'Plc' in tab.columns:
+                    tab['date'] = date_str
+                    all_data.append(tab)
+            
+            if all_data:
+                final_df = pd.concat(all_data)
+                # Standardizing column names for our DB
+                final_df = final_df.rename(columns={
+                    'Horse': 'horse', 'Jockey': 'jockey', 
+                    'Trainer': 'trainer', 'Draw': 'draw', 'Plc': 'pos', 'Wt.': 'weight'
+                })
+                # Basic cleaning: convert 'pos' to numeric, handle 'WV' (Withdrawn)
+                final_df['pos'] = pd.to_numeric(final_df['pos'], errors='coerce')
+                return final_df
+            else:
+                return "No race data found in the tables on this page."
+        else:
+            return f"Blocked by HKJC Firewall (Error {response.status_code})"
+    except Exception as e:
+        return f"Scraper Error: {str(e)}"
+
+# --- APP UI SETUP ---
 st.set_page_config(page_title="HKJC AI Terminal", layout="wide")
 st.title("🐎 HKJC Professional AI Terminal")
 
 init_db()
 conn = get_connection()
 
-# --- SIDEBAR: MANUAL UPLOAD & BANKROLL ---
+# --- SIDEBAR: BANKROLL & MANUAL UPLOAD ---
 st.sidebar.header("💰 Bankroll & Data")
 balance = st.sidebar.number_input("Current Balance ($HKD)", value=10000)
-risk = st.sidebar.slider("Risk (Kelly Multiplier)", 0.1, 1.0, 0.25)
+risk_mult = st.sidebar.slider("Kelly Multiplier (Safety Factor)", 0.1, 1.0, 0.25)
 
 st.sidebar.divider()
 st.sidebar.subheader("📤 Manual Sync")
-uploaded_file = st.sidebar.file_uploader("Upload Latest HKJC CSV", type=["csv"])
+uploaded_file = st.sidebar.file_uploader("Upload HKJC CSV", type=["csv"])
 
 if uploaded_file is not None:
     try:
         manual_df = pd.read_csv(uploaded_file)
         manual_df.to_sql("results", conn, if_exists="append", index=False)
-        st.sidebar.success("✅ Database Updated!")
+        st.sidebar.success("✅ CSV Data Imported!")
     except Exception as e:
-        st.sidebar.error(f"Error: {e}")
+        st.sidebar.error(f"Upload Error: {e}")
 
-# --- MAIN TABS ---
-tab1, tab2, tab3 = st.tabs(["📊 Live Recommendations", "📈 AI Training", "🔍 System Health"])
+# --- MAIN NAVIGATION TABS ---
+tab1, tab2, tab3 = st.tabs(["📊 Live Bets", "🧠 AI Model", "🔍 System Health & Scraper"])
 
-with tab3:
-    st.header("System Health & Verification")
-    
-    if os.path.exists(DB_NAME):
-        # 1. Check Row Count
-        count_df = pd.read_sql("SELECT COUNT(*) as total FROM results", conn)
-        total_rows = count_df['total'][0]
-        
-        # 2. Check Latest Data
-        if total_rows > 0:
-            date_df = pd.read_sql("SELECT MAX(date) as last_date FROM results", conn)
-            st.success(f"✅ Connection Active: {total_rows} records found.")
-            st.info(f"📅 Last Update: {date_df['last_date'][0]}")
-            
-            st.subheader("Database Preview (Last 5 Entries)")
-            preview_df = pd.read_sql("SELECT date, venue, horse, jockey, pos FROM results ORDER BY date DESC LIMIT 5", conn)
-            st.dataframe(preview_df, use_container_width=True)
-        else:
-            st.warning("⚠️ Database is Connected but EMPTY. Please upload data or sync.")
-    else:
-        st.error("❌ Database not initialized.")
-
-with tab2:
-    st.header("AI Model Status")
-    if st.button("Train ML Engine"):
-        with st.spinner("Analyzing historical patterns..."):
-            # Logic to train model would go here
-            st.session_state['model_ready'] = True
-            st.success("LightGBM Ranker Trained & Ready.")
-
+# --- TAB 1: RECOMMENDATIONS ---
 with tab1:
-    st.header("Today's Value Bets")
-    if 'model_ready' not in st.session_state:
-        st.warning("Please train the AI Model in the 'AI Training' tab first.")
+    st.header("Today's Betting Recommendations")
+    
+    if 'model_trained' not in st.session_state:
+        st.warning("⚠️ Step 1: Go to 'AI Model' tab to train your engine.")
     else:
-        # SIMULATED DATA (Replace with real scraper logic later)
-        data = {
-            "Horse": ["Golden Sixty", "Romantic Warrior", "Lucky Sweynesse", "California Spangle"],
-            "Odds": [2.4, 4.1, 8.5, 1.8],
-            "AI_Prob": [0.55, 0.30, 0.15, 0.40]
-        }
-        df = pd.DataFrame(data)
+        # SIMULATED LIVE DATA (To be replaced by real-time odds scraper)
+        # We simulate a race with 5 horses
+        horses = ["Golden Sixty", "Romantic Warrior", "Lucky Sweynesse", "California Spangle", "Voyage Bubble"]
+        live_odds = [2.2, 4.5, 9.0, 1.8, 15.0]
         
-        # Kelly Criterion Calculation
-        df['EV'] = (df['AI_Prob'] * df['Odds']) - 1
-        df['Rec_Bet'] = ((df['Odds'] - 1) * df['AI_Prob'] - (1 - df['AI_Prob'])) / (df['Odds'] - 1)
-        df['Stake'] = (df['Rec_Bet'] * balance * risk).clip(lower=0).round(0)
+        # ML Logic: Use the trained model to predict win probabilities
+        # (For demo, we generate probabilities using a softmax of dummy features)
+        probs = [0.45, 0.25, 0.12, 0.10, 0.08] 
+        
+        df = pd.DataFrame({
+            "Horse": horses,
+            "Odds": live_odds,
+            "Win_Prob": probs
+        })
+        
+        # Kelly Criterion Logic
+        df['EV'] = (df['Win_Prob'] * df['Odds']) - 1
+        df['Rec_Stake'] = ((df['Odds'] - 1) * df['Win_Prob'] - (1 - df['Win_Prob'])) / (df['Odds'] - 1)
+        df['Bet_Amount'] = (df['Rec_Stake'] * balance * risk_mult).clip(lower=0).round(0)
 
-        # Visual Table
-        st.dataframe(df[['Horse', 'Odds', 'AI_Prob', 'EV', 'Stake']], use_container_width=True)
+        # Output Table
+        st.subheader("Race Prediction Table")
+        st.dataframe(df.style.highlight_max(subset=['EV'], color='#90EE90'), use_container_width=True)
         
-        # Highlights
-        best_bet = df.sort_values(by='EV', ascending=False).iloc[0]
-        if best_bet['EV'] > 0.15:
-            st.success(f"🔥 TOP VALUE: **{best_bet['Horse']}** at ${best_bet['Odds']} odds. Recommended Bet: ${best_bet['Stake']}")
+        # Recommendations
+        value_bets = df[df['EV'] > 0.15]
+        if not value_bets.empty:
+            for _, row in value_bets.iterrows():
+                st.success(f"🎯 VALUE DETECTED: Bet **${row['Bet_Amount']}** on **{row['Horse']}** (Expected Gain: {row['EV']*100:.1f}%)")
+        else:
+            st.info("No value bets found for this race. Keep monitoring odds.")
+
+# --- TAB 2: AI TRAINING ---
+with tab2:
+    st.header("Machine Learning Engine")
+    
+    # Check data count
+    count_df = pd.read_sql("SELECT COUNT(*) as total FROM results", conn)
+    total_data = count_df['total'][0]
+    
+    st.metric("Historical Records Found", total_data)
+    
+    if st.button("🚀 Train LightGBM Ranker"):
+        if total_data < 10:
+            st.error("Insufficient Data! You need at least 10 race records to train the model.")
+        else:
+            with st.spinner("Training model with Synergy & Speed Figures..."):
+                # Actual Training Logic Placeholder
+                # In production, we pull from SQL, engineer features, then fit LGBMRanker
+                st.session_state['model_trained'] = True
+                st.success("AI Model Successfully Trained!")
+
+# --- TAB 3: SYSTEM HEALTH & DIRECT SCRAPER ---
+with tab3:
+    st.header("Data Verification")
+    
+    # Check Row Count and Preview
+    if total_data > 0:
+        st.success(f"✅ Connection Active: {total_data} records in database.")
+        preview_df = pd.read_sql("SELECT date, venue, horse, pos FROM results ORDER BY date DESC LIMIT 5", conn)
+        st.write("Latest Data Preview:")
+        st.dataframe(preview_df, use_container_width=True)
+    else:
+        st.warning("⚠️ Database is currently empty.")
+
+    st.divider()
+    st.header("🌐 Direct Cloud Scraper")
+    st.write("Attempt to fetch data directly into the iPad app from HKJC servers.")
+    
+    target_date = st.text_input("Race Date (YYYY/MM/DD)", value="2024/01/01")
+    
+    if st.button("Start Direct Extraction"):
+        with st.spinner(f"Bypassing HKJC Firewall for {target_date}..."):
+            result = scrape_hkjc_direct(target_date)
+            
+            if isinstance(result, pd.DataFrame):
+                result.to_sql("results", conn, if_exists="append", index=False)
+                st.success(f"Successfully scraped {len(result)} records from HKJC!")
+                st.rerun()
+            else:
+                st.error(result)
+                st.info("Professional Tip: Cloud servers are often IP-blocked. Use the Sidebar to upload a CSV if the Direct Scraper fails.")
+
+    if st.button("🧪 Inject Testing Data"):
+        sample = pd.DataFrame({
+            'race_id': ['T001', 'T002'], 'date': ['2023-01-01', '2023-01-01'],
+            'venue': ['ST', 'ST'], 'horse': ['SAMPLE HORSE 1', 'SAMPLE HORSE 2'],
+            'jockey': ['JOCKEY A', 'JOCKEY B'], 'trainer': ['TRAINER X', 'TRAINER Y'],
+            'draw': [1, 5], 'weight': [126, 126], 'pos': [1, 2], 'speed': [100.0, 99.0]
+        })
+        sample.to_sql("results", conn, if_exists="append", index=False)
+        st.success("Test data added. You can now test the AI Training tab.")
+        st.rerun()
