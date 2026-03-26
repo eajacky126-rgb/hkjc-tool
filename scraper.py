@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # --- CONFIG ---
-API_KEY = "YOUR_SCRAPERAPI_KEY"  # Get this for free from scraperapi.com
+API_KEY = "14de051f2c5f97f2ad8898a88bc7cb0e"  # Get this for free from scraperapi.com
 TARGET_DATE = datetime.now().strftime("%Y/%m/%d") 
 URL = f"https://racing.hkjc.com/racing/information/English/Racing/LocalResults.aspx?RaceDate={TARGET_DATE}"
 
