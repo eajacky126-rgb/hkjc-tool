@@ -1,25 +1,29 @@
 Pla.,Horse No.,Horse,Jockey,Trainer,Act. Wt.,Declar. Horse Wt.,Dr.,LBW,Running Position,Finish Time,Win Odds,date,Incident
-1,7,DO YOU JUST (L094),Y L Chung,A S Cruz,120.0,1146.0,5.0,-,2 2 1,1:09.45,12.0,2026/04/15,
-2,6,MATTERS MOST (K154),E C W Wong,C S Shum,123.0,1168.0,1.0,1-1/4,1 1 2,1:09.65,7.9,2026/04/15,
-3,12,SOMELOVEFROMABOVE (J503),J Moreira,C Fownes,118.0,1203.0,4.0,1-1/2,6 5 3,1:09.69,4.1,2026/04/15,
-4,1,SYMBOL OF STRENGTH (K352),L Ferraris,F C Lor,135.0,1127.0,3.0,2-1/2,5 6 4,1:09.85,7.4,2026/04/15,
-5,3,SPORTS LEGEND (H456),H Bowman,D Eustace,129.0,1160.0,8.0,2-3/4,11 10 5,1:09.90,6.3,2026/04/15,
-6,5,BIENVENUE (J490),Z Purton,D A Hayes,126.0,1133.0,10.0,3-1/4,4 4 6,1:09.96,9.2,2026/04/15,
-7,2,LUCKY PLANET (H235),M F Poon,W K Mo,133.0,1084.0,2.0,3-1/4,3 3 7,1:09.96,36.0,2026/04/15,
-8,4,AMAZING KID (K434),A Atzeni,J Size,126.0,998.0,12.0,3-1/4,8 7 8,1:09.98,7.9,2026/04/15,
-9,9,STRAIGHT TO GLORY (K340),H Bentley,C W Chang,121.0,1152.0,7.0,4-1/2,7 8 9,1:10.16,5.5,2026/04/15,
-10,11,LUCKY DOCTOR (L225),C Y Ho,P C Ng,120.0,1201.0,11.0,7-3/4,12 12 10,1:10.70,210.0,2026/04/15,
-11,10,PRESTIGE WIN (L248),L Hewitson,B Crawford,119.0,1216.0,6.0,8-1/2,9 9 11,1:10.82,115.0,2026/04/15,
-12,8,FIERY STEED (K575),R Kingscote,P F Yiu,122.0,1036.0,9.0,10-1/4,10 11 12,1:11.09,78.0,2026/04/15,
-1,7,DO YOU JUST (L094),,,,,,,,,,2026/04/15,Bumped shortly after the start. Sent for sampling post-race.
-2,6,MATTERS MOST (K154),,,,,,,,,,2026/04/15,Sent for sampling post-race.
-3,12,SOMELOVEFROMABOVE (J503),,,,,,,,,,2026/04/15,Bumped shortly after the start. Sent for sampling post-race.
-4,1,SYMBOL OF STRENGTH (K352),,,,,,,,,,2026/04/15,No report.
-5,3,SPORTS LEGEND (H456),,,,,,,,,,2026/04/15,No report.
-6,5,BIENVENUE (J490),,,,,,,,,,2026/04/15,"Z Purton stated that after holding a forward position his mount weakened noticeably over the concluding stages. A veterinary inspection immediately following the race which included an endoscopic examination showed a substantial amount of blood in the horse’s trachea. Before being allowed to race again, BIENVENUE will be subjected to an official veterinary examination."
-7,2,LUCKY PLANET (H235),,,,,,,,,,2026/04/15,No report.
-8,4,AMAZING KID (K434),,,,,,,,,,2026/04/15,Raced wide and without cover for the majority of the event.
-9,9,STRAIGHT TO GLORY (K340),,,,,,,,,,2026/04/15,Bumped on jumping. Near the 100 Metres was steadied to avoid SYMBOL OF STRENGTH which shifted out slightly. H Bentley could offer no excuse for the horse’s disappointing performance. Trainer C W Chang stated that the horse had pleased him prior to the race and said as the horse is one-paced it was disadvantaged tonight by having to be ridden slightly further back in the field than intended. A veterinary inspection immediately following the race did not show any significant findings.
-10,11,LUCKY DOCTOR (L225),,,,,,,,,,2026/04/15,Jumped only fairly.
-11,10,PRESTIGE WIN (L248),,,,,,,,,,2026/04/15,On jumping made contact with STRAIGHT TO GLORY due to both runners shifting ground. As a result PRESTIGE WIN became unbalanced. L Hewitson stated that he was instructed to ride the horse in a conservative manner in the early stages. Trainer B Crawford confirmed the instructions issued.
-12,8,FIERY STEED (K575),,,,,,,,,,2026/04/15,Raced keenly in the early and middle stages. Near the 800 Metres was steadied to avoid STRAIGHT TO GLORY.
+1,14,NAUTICAL FORCE (L187),K Teetan,J Size,115.0,977.0,8.0,-,12 13 13 12 1,1:46.37,15.0,2026/04/19,
+2,12,KA YING GENERATION (J075),A Atzeni,P C Ng,117.0,1142.0,2.0,1/2,10 10 10 10 2,1:46.45,14.0,2026/04/19,
+3,8,JOY OF SPRING (H383),J Moreira,C Fownes,120.0,1011.0,1.0,1-3/4,9 8 9 8 3,1:46.65,6.6,2026/04/19,
+4,6,GENTLEMEN LEGACY (K385),H Bowman,A S Cruz,125.0,1175.0,5.0,1-3/4,11 12 12 13 4,1:46.67,7.8,2026/04/19,
+5,5,AWESOME FLUKE (J050),J Orman,P F Yiu,126.0,1205.0,6.0,2,5 7 6 3 5,1:46.68,29.0,2026/04/19,
+6,9,SWORD POINT (G448),M F Poon,F C Lor,119.0,1142.0,13.0,2,7 4 3 1 6,1:46.70,145.0,2026/04/19,
+7,13,SERAPH GABRIEL (L108),H Bentley,D Eustace,117.0,1069.0,14.0,2-1/4,4 5 5 4 7,1:46.73,4.7,2026/04/19,
+8,3,WINNING WING (K129),H T Mo,K W Lui,129.0,1191.0,11.0,2-1/4,14 14 14 14 8,1:46.74,11.0,2026/04/19,
+9,2,STUNNING PEACH (J301),Y L Chung,A S Cruz,129.0,1082.0,12.0,3-1/2,13 11 11 11 9,1:46.92,13.0,2026/04/19,
+10,10,SKY HEART (J092),E C W Wong,C Fownes,115.0,1226.0,7.0,3-1/2,3 3 4 5 10,1:46.94,16.0,2026/04/19,
+11,4,PATCH OF COSMO (J357),Z Purton,K L Man,127.0,1281.0,4.0,4-1/4,8 9 8 7 11,1:47.05,3.5,2026/04/19,
+12,1,MOMENTS IN TIME (H474),L Hewitson,C S Shum,135.0,1104.0,3.0,10-1/4,6 6 7 9 12,1:48.00,78.0,2026/04/19,
+13,11,VOYAGE SAMURAI (J026),M L Yeung,F C Lor,118.0,1197.0,10.0,15-1/4,1 1 1 2 13,1:48.83,124.0,2026/04/19,
+14,7,NEW FOREST (K094),R Kingscote,M Newnham,125.0,1131.0,9.0,23-1/4,2 2 2 6 14,1:50.10,124.0,2026/04/19,
+1,14,NAUTICAL FORCE (L187),,,,,,,,,,2026/04/19,Jumped only fairly. Sent for sampling post-race.
+2,12,KA YING GENERATION (J075),,,,,,,,,,2026/04/19,Sent for sampling post-race.
+3,8,JOY OF SPRING (H383),,,,,,,,,,2026/04/19,Jumped only fairly.
+4,6,GENTLEMEN LEGACY (K385),,,,,,,,,,2026/04/19,No report.
+5,5,AWESOME FLUKE (J050),,,,,,,,,,2026/04/19,Approaching the 1200 Metres raced keenly when it was steadied to avoid SERAPH GABRIEL. Between the 500 Metres and the 350 Metres made contact with SERAPH GABRIEL on a number of occasions as it prevented SERAPH GABRIEL from shifting out.
+6,9,SWORD POINT (G448),,,,,,,,,,2026/04/19,Raced wide and without cover for the majority of the event.
+7,13,SERAPH GABRIEL (L108),,,,,,,,,,2026/04/19,Between the 500 Metres and the 350 Metres made contact with AWESOME FLUKE on a number of occasions when it endeavoured to obtain clear running to the outside of SWORD POINT. Near the 350 Metres SERAPH GABRIEL was disappointed for clear running and then was held up until near the 250 Metres. After being shifted to the inside of SWORD POINT passing the 250 Metres to obtain clear running then raced tight to the inside of SWORD POINT until near the 100 Metres.
+8,3,WINNING WING (K129),,,,,,,,,,2026/04/19,No report.
+9,2,STUNNING PEACH (J301),,,,,,,,,,2026/04/19,Jumped only fairly. From a wide barrier was shifted across behind runners in the early stages. Near the 200 Metres Y L Chung dropped his whip. A veterinary inspection immediately following the race did not show any significant findings.
+10,10,SKY HEART (J092),,,,,,,,,,2026/04/19,Approaching the 450 Metres was held up for clear running behind VOYAGE SAMURAI as that runner commenced to give ground.
+11,4,PATCH OF COSMO (J357),,,,,,,,,,2026/04/19,Jumped only fairly. Z Purton stated that his mount raced too keenly during the race and as a result was left without a finishing effort in the Home Straight. A veterinary inspection immediately following the race did not show any significant findings. Sent for sampling post-race.
+12,1,MOMENTS IN TIME (H474),,,,,,,,,,2026/04/19,Near the 350 Metres was steadied to avoid NEW FOREST which was giving ground.
+13,11,VOYAGE SAMURAI (J026),,,,,,,,,,2026/04/19,"A veterinary inspection immediately following the race which included an endoscopic examination showed a substantial amount of blood in the horse’s trachea. Before being allowed to race again, VOYAGE SAMURAI will be subjected to an official veterinary examination."
+14,7,NEW FOREST (K094),,,,,,,,,,2026/04/19,"The performance of NEW FOREST, which finished tailed out, was considered unacceptable. Before being allowed to race again, NEW FOREST will be required to perform to the satisfaction of the Stewards in a barrier trial and be subjected to an official veterinary examination. A veterinary inspection immediately following the race did not show any significant findings."
