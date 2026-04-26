@@ -1,25 +1,29 @@
 Pla.,Horse No.,Horse,Jockey,Trainer,Act. Wt.,Declar. Horse Wt.,Dr.,LBW,Running Position,Finish Time,Win Odds,date,Incident
-1,9,JUBILANT WINNER (J346),A Badel,J Richards,126.0,1203.0,6.0,-,1 1 1,1:09.33,14.0,2026/04/22,
-2,1,AURIO (K056),Z Purton,K L Man,135.0,1157.0,4.0,1-1/4,6 6 2,1:09.54,3.4,2026/04/22,
-3,7,SOVEREIGN FUND (J402),K Teetan,B Crawford,132.0,1156.0,8.0,1-1/2,2 2 3,1:09.58,22.0,2026/04/22,
-4,12,PACKING GLORY (L013),R Kingscote,P F Yiu,119.0,1120.0,1.0,1-3/4,3 3 4,1:09.61,3.3,2026/04/22,
-5,10,WINGS OF WAR (H162),B Avdulla,D J Whyte,122.0,1181.0,3.0,1-3/4,4 4 5,1:09.63,9.1,2026/04/22,
-6,5,FLYING FORTRESS (J445),H Bowman,W K Mo,132.0,1012.0,12.0,3-3/4,12 11 6,1:09.95,53.0,2026/04/22,
-7,3,LOVE TOGETHER (L052),J Moreira,C Fownes,133.0,1182.0,5.0,4-1/2,8 7 7,1:10.03,4.9,2026/04/22,
-8,6,GREATER BAE (L033),A Atzeni,D Eustace,132.0,1102.0,9.0,5,9 8 8,1:10.15,16.0,2026/04/22,
-9,2,MASTEROFMYUNIVERSE (J325),E Brown,J Size,135.0,981.0,7.0,5-1/2,11 10 9,1:10.20,25.0,2026/04/22,
-10,4,MY DAY MY WAY (J519),C L Chau,C S Shum,131.0,1184.0,11.0,7-3/4,10 12 10,1:10.58,18.0,2026/04/22,
-11,8,KANSAS (L305),H Bentley,D A Hayes,131.0,1010.0,2.0,8,5 5 11,1:10.61,161.0,2026/04/22,
-12,11,WITHOUT RHYME (L077),Y L Chung,A S Cruz,120.0,1082.0,10.0,11-1/4,7 9 12,1:11.11,62.0,2026/04/22,
-1,9,JUBILANT WINNER (J346),,,,,,,,,,2026/04/22,Sent for sampling post-race.
-2,1,AURIO (K056),,,,,,,,,,2026/04/22,"Over the final 200 Metres lay in under pressure, resulting in its rider Z Purton having to change his whip through to his right hand near the 100 Metres. Sent for sampling post-race."
-3,7,SOVEREIGN FUND (J402),,,,,,,,,,2026/04/22,Bumped on jumping. K Teetan confirmed that he had been instructed to take up a forward position as it was expected there would be a lack of pace in the event.
-4,12,PACKING GLORY (L013),,,,,,,,,,2026/04/22,Bumped shortly after the start. Sent for sampling post-race.
-5,10,WINGS OF WAR (H162),,,,,,,,,,2026/04/22,Bumped on jumping.
-6,5,FLYING FORTRESS (J445),,,,,,,,,,2026/04/22,From the outside barrier was shifted across behind runners in the early stages.
-7,3,LOVE TOGETHER (L052),,,,,,,,,,2026/04/22,Jumped only fairly. J Moreira stated that his mount failed to travel throughout the event and he was disappointed with its finishing effort. A veterinary inspection immediately following the race did not show any significant findings.
-8,6,GREATER BAE (L033),,,,,,,,,,2026/04/22,A Atzeni stated that his mount was under pressure from the 600 Metres and failed to run on under riding in the Home Straight. A veterinary inspection immediately following the race did not show any significant findings.
-9,2,MASTEROFMYUNIVERSE (J325),,,,,,,,,,2026/04/22,Shifted out on jumping and made contact with SOVEREIGN FUND. Near the 550 Metres lay in and made contact with the running rail. Held up for clear running on the Home Turn.
-10,4,MY DAY MY WAY (J519),,,,,,,,,,2026/04/22,C L Chau stated that the intention was to hold a midfield position. He said when caught wide in the early stages MY DAY MY WAY was obliged to race further back in the field than intended and found it difficult to make up ground in the Home Straight from that position. A veterinary inspection immediately following the race did not show any significant findings.
-11,8,KANSAS (L305),,,,,,,,,,2026/04/22,On jumping became unbalanced when it shifted out and made contact with WINGS OF WAR. A short distance later shifted in and made contact with PACKING GLORY.
-12,11,WITHOUT RHYME (L077),,,,,,,,,,2026/04/22,Raced wide and without cover for the majority of the event.
+1,5,WINNING OVATION (K350),Z Purton,A S Cruz,122.0,1208.0,2.0,-,2 3 2 1,1:20.45,4.0,2026/04/26,
+2,9,SIX PACK (K061),A Badel,D J Whyte,118.0,1307.0,1.0,1-3/4,6 6 5 2,1:20.72,7.7,2026/04/26,
+3,12,MIGHTY MASTS (L153),K Teetan,W Y So,115.0,1146.0,6.0,2-1/4,8 7 7 3,1:20.80,4.0,2026/04/26,
+4,11,SALON S (K585),M F Poon,F C Lor,115.0,1171.0,4.0,2-1/4,1 1 1 4,1:20.80,2.8,2026/04/26,
+5,10,DROMBEG BANNER (H117),Y L Chung,P C Ng,115.0,1083.0,12.0,2-1/2,3 2 3 5,1:20.85,136.0,2026/04/26,
+6,13,JUNEAU PRIDE (J443),C Williams,J Size,115.0,1019.0,9.0,3-1/4,12 11 11 6,1:20.97,12.0,2026/04/26,
+7,3,STORM RIDER (J027),H Bentley,D A Hayes,132.0,1152.0,5.0,4-1/4,4 4 4 7,1:21.15,178.0,2026/04/26,
+8,6,KAHOLO ANGEL (H216),E C W Wong,C Fownes,118.0,1182.0,8.0,4-3/4,13 12 12 8,1:21.19,126.0,2026/04/26,
+9,7,INFINITE RESOLVE (K369),L Hewitson,M Newnham,119.0,1085.0,3.0,5,10 10 8 9,1:21.23,39.0,2026/04/26,
+10,8,EMBLAZON (K122),C L Chau,W K Mo,118.0,1177.0,14.0,5,9 13 14 10,1:21.24,48.0,2026/04/26,
+11,4,MUGEN (H338),J Moreira,B Crawford,124.0,1116.0,7.0,5,11 9 10 11,1:21.26,32.0,2026/04/26,
+12,2,LIGHT YEARS CHARM (K130),H Bowman,D Eustace,132.0,1235.0,11.0,6-1/2,14 14 13 12,1:21.48,47.0,2026/04/26,
+13,1,PACKING HERMOD (J277),L Ferraris,K W Lui,135.0,1123.0,13.0,6-3/4,5 5 6 13,1:21.55,58.0,2026/04/26,
+14,14,WE ARE HERO (G207),P N Wong,K L Man,108.0,1222.0,10.0,10-3/4,7 8 9 14,1:22.18,160.0,2026/04/26,
+1,5,WINNING OVATION (K350),,,,,,,,,,2026/04/26,Sent for sampling post-race.
+2,9,SIX PACK (K061),,,,,,,,,,2026/04/26,Jumped only fairly. Sent for sampling post-race.
+3,12,MIGHTY MASTS (L153),,,,,,,,,,2026/04/26,Jumped only fairly.
+4,11,SALON S (K585),,,,,,,,,,2026/04/26,Sent for sampling post-race.
+5,10,DROMBEG BANNER (H117),,,,,,,,,,2026/04/26,No report.
+6,13,JUNEAU PRIDE (J443),,,,,,,,,,2026/04/26,Lay in over the final 150 Metres.
+7,3,STORM RIDER (J027),,,,,,,,,,2026/04/26,No report.
+8,6,KAHOLO ANGEL (H216),,,,,,,,,,2026/04/26,Shortly after the start shifted in and away from JUNEAU PRIDE and made contact with MUGEN.
+9,7,INFINITE RESOLVE (K369),,,,,,,,,,2026/04/26,No report.
+10,8,EMBLAZON (K122),,,,,,,,,,2026/04/26,C L Chau stated that with the early stages being run inside of standard time his mount settled further back in the field than anticipated.
+11,4,MUGEN (H338),,,,,,,,,,2026/04/26,Shortly after the start became unbalanced when bumped by KAHOLO ANGEL. Between the 350 Metres and the 250 Metres had difficulty obtaining clear running when improving between PACKING HERMOD and WE ARE HERO.
+12,2,LIGHT YEARS CHARM (K130),,,,,,,,,,2026/04/26,Jumped only fairly. From a wide barrier was shifted across behind runners in the early stages. Over the concluding stages could not be ridden out when positioned close to STORM RIDER. A veterinary inspection immediately following the race did not show any significant findings.
+13,1,PACKING HERMOD (J277),,,,,,,,,,2026/04/26,Raced wide and without cover for the majority of the event.
+14,14,WE ARE HERO (G207),,,,,,,,,,2026/04/26,A veterinary inspection immediately following the race did not show any significant findings.
