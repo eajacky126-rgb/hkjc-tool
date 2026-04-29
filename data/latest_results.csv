@@ -1,29 +1,13 @@
-Pla.,Horse No.,Horse,Jockey,Trainer,Act. Wt.,Declar. Horse Wt.,Dr.,LBW,Running Position,Finish Time,Win Odds,date,Incident
-1,5,WINNING OVATION (K350),Z Purton,A S Cruz,122.0,1208.0,2.0,-,2 3 2 1,1:20.45,4.0,2026/04/26,
-2,9,SIX PACK (K061),A Badel,D J Whyte,118.0,1307.0,1.0,1-3/4,6 6 5 2,1:20.72,7.7,2026/04/26,
-3,12,MIGHTY MASTS (L153),K Teetan,W Y So,115.0,1146.0,6.0,2-1/4,8 7 7 3,1:20.80,4.0,2026/04/26,
-4,11,SALON S (K585),M F Poon,F C Lor,115.0,1171.0,4.0,2-1/4,1 1 1 4,1:20.80,2.8,2026/04/26,
-5,10,DROMBEG BANNER (H117),Y L Chung,P C Ng,115.0,1083.0,12.0,2-1/2,3 2 3 5,1:20.85,136.0,2026/04/26,
-6,13,JUNEAU PRIDE (J443),C Williams,J Size,115.0,1019.0,9.0,3-1/4,12 11 11 6,1:20.97,12.0,2026/04/26,
-7,3,STORM RIDER (J027),H Bentley,D A Hayes,132.0,1152.0,5.0,4-1/4,4 4 4 7,1:21.15,178.0,2026/04/26,
-8,6,KAHOLO ANGEL (H216),E C W Wong,C Fownes,118.0,1182.0,8.0,4-3/4,13 12 12 8,1:21.19,126.0,2026/04/26,
-9,7,INFINITE RESOLVE (K369),L Hewitson,M Newnham,119.0,1085.0,3.0,5,10 10 8 9,1:21.23,39.0,2026/04/26,
-10,8,EMBLAZON (K122),C L Chau,W K Mo,118.0,1177.0,14.0,5,9 13 14 10,1:21.24,48.0,2026/04/26,
-11,4,MUGEN (H338),J Moreira,B Crawford,124.0,1116.0,7.0,5,11 9 10 11,1:21.26,32.0,2026/04/26,
-12,2,LIGHT YEARS CHARM (K130),H Bowman,D Eustace,132.0,1235.0,11.0,6-1/2,14 14 13 12,1:21.48,47.0,2026/04/26,
-13,1,PACKING HERMOD (J277),L Ferraris,K W Lui,135.0,1123.0,13.0,6-3/4,5 5 6 13,1:21.55,58.0,2026/04/26,
-14,14,WE ARE HERO (G207),P N Wong,K L Man,108.0,1222.0,10.0,10-3/4,7 8 9 14,1:22.18,160.0,2026/04/26,
-1,5,WINNING OVATION (K350),,,,,,,,,,2026/04/26,Sent for sampling post-race.
-2,9,SIX PACK (K061),,,,,,,,,,2026/04/26,Jumped only fairly. Sent for sampling post-race.
-3,12,MIGHTY MASTS (L153),,,,,,,,,,2026/04/26,Jumped only fairly.
-4,11,SALON S (K585),,,,,,,,,,2026/04/26,Sent for sampling post-race.
-5,10,DROMBEG BANNER (H117),,,,,,,,,,2026/04/26,No report.
-6,13,JUNEAU PRIDE (J443),,,,,,,,,,2026/04/26,Lay in over the final 150 Metres.
-7,3,STORM RIDER (J027),,,,,,,,,,2026/04/26,No report.
-8,6,KAHOLO ANGEL (H216),,,,,,,,,,2026/04/26,Shortly after the start shifted in and away from JUNEAU PRIDE and made contact with MUGEN.
-9,7,INFINITE RESOLVE (K369),,,,,,,,,,2026/04/26,No report.
-10,8,EMBLAZON (K122),,,,,,,,,,2026/04/26,C L Chau stated that with the early stages being run inside of standard time his mount settled further back in the field than anticipated.
-11,4,MUGEN (H338),,,,,,,,,,2026/04/26,Shortly after the start became unbalanced when bumped by KAHOLO ANGEL. Between the 350 Metres and the 250 Metres had difficulty obtaining clear running when improving between PACKING HERMOD and WE ARE HERO.
-12,2,LIGHT YEARS CHARM (K130),,,,,,,,,,2026/04/26,Jumped only fairly. From a wide barrier was shifted across behind runners in the early stages. Over the concluding stages could not be ridden out when positioned close to STORM RIDER. A veterinary inspection immediately following the race did not show any significant findings.
-13,1,PACKING HERMOD (J277),,,,,,,,,,2026/04/26,Raced wide and without cover for the majority of the event.
-14,14,WE ARE HERO (G207),,,,,,,,,,2026/04/26,A veterinary inspection immediately following the race did not show any significant findings.
+Pla.,Horse No.,Horse,Jockey,Trainer,Act. Wt.,Declar. Horse Wt.,Dr.,LBW,Running Position,Finish Time,Win Odds,date
+1,6,ARMOR GOLDEN EAGLE (K566),Z Purton,M Newnham,123,1059,4,---,4 4 3 1,1:39.59,2.8,2026/04/29
+2,12,WITHALLMYFAITH (K428),K Teetan,D A Hayes,118,1237,3,3-3/4,6 6 5 2,1:40.19,5.6,2026/04/29
+3,5,FANTASTIC FUN (J364),E Brown,C S Shum,124,1210,6,4-1/2,3 3 1 3,1:40.30,12.0,2026/04/29
+4,7,CALIFORNIA MOXIE (J131),A Badel,A S Cruz,122,1148,11,4-3/4,12 12 9 4,1:40.36,12.0,2026/04/29
+5,2,KEEFY (G306),K C Leung,F C Lor,134,1155,10,5-3/4,10 9 6 5,1:40.50,19.0,2026/04/29
+6,10,VIVA GRACIOUSNESS (J079),P N Wong,A S Cruz,115,1096,1,6-1/4,2 2 4 6,1:40.59,15.0,2026/04/29
+7,11,LUCKY TWIN STARS (K126),H Bentley,K W Lui,119,1249,7,6-3/4,9 10 12 7,1:40.68,11.0,2026/04/29
+8,9,STORMI (K084),C L Chau,W K Mo,121,1153,12,8,1 1 2 8,1:40.86,27.0,2026/04/29
+9,3,CORLEONE (J426),E C W Wong,C Fownes,129,1052,8,8-1/4,8 7 10 9,1:40.91,10.0,2026/04/29
+10,4,I CAN (H381),Y L Chung,P C Ng,125,1093,2,9-3/4,7 8 7 10,1:41.14,72.0,2026/04/29
+11,1,SOLID WIN (J225),H Bowman,P F Yiu,135,1099,9,10-1/4,11 11 11 11,1:41.23,6.9,2026/04/29
+12,8,SPICY GOLD (H440),M Chadwick,J Richards,122,1214,5,37,5 5 8 12,1:45.51,77.0,2026/04/29
