@@ -1,29 +1,13 @@
-Pla.,Horse No.,Horse,Jockey,Trainer,Act. Wt.,Declar. Horse Wt.,Dr.,LBW,Running Position,Finish Time,Win Odds,date,Incident
-1.0,4,TURQUOISE VELOCITY (K533),M L Yeung,K W Lui,130.0,1078,3,---,1 1 1,1:11.62,4.7,2026/05/03,
-2.0,6,MY MARS (L301),B Avdulla,D A Hayes,127.0,1194,1,N,6 5 2,1:11.66,5.5,2026/05/03,
-3.0,1,CROSSBORDERPEGASUS (K008),J Orman,J Size,135.0,1226,9,N,13 11 3,1:11.67,8.3,2026/05/03,
-4.0,2,SMART GOLF (L004),H Bentley,F C Lor,132.0,1214,13,2,2 2 4,1:11.96,5.5,2026/05/03,
-5.0,3,YOUNG EMPEROR (K011),L Ferraris,D Eustace,131.0,1073,6,4-1/2,10 10 5,1:12.35,27,2026/05/03,
-6.0,7,MAJESTIC VALOUR (L016),M F Poon,P C Ng,124.0,1187,11,6-1/4,4 3 6,1:12.61,12,2026/05/03,
-7.0,12,WINNING BUDDIES (L092),K C Leung,K H Ting,122.0,1108,12,6-1/4,9 7 7,1:12.63,200,2026/05/03,
-8.0,9,MAGNEMITE (K549),M Chadwick,W K Mo,120.0,1253,7,7-3/4,12 13 8,1:12.88,131,2026/05/03,
-9.0,10,SCORCHING LEGEND (L081),C Y Ho,C Fownes,120.0,1061,4,8-1/2,3 4 9,1:12.97,39,2026/05/03,
-10.0,8,THOUSAND SPIRIT (K365),L Hewitson,M Newnham,121.0,1044,5,9-1/2,5 6 10,1:13.14,10,2026/05/03,
-11.0,11,TACTICAL HORIZONS (L173),K Teetan,W Y So,120.0,1086,10,10-1/4,11 12 11,1:13.26,188,2026/05/03,
-12.0,14,ALMIGHTY LIGHTNING (L126),A Atzeni,K L Man,117.0,1067,2,11-1/2,7 9 12,1:13.47,3.9,2026/05/03,
-13.0,13,LADY'S LOVE (L220),R Kingscote,C W Chang,118.0,1039,8,12-1/2,8 8 13,1:13.63,86,2026/05/03,
-,5,DO YOU JUST (L094),Y L Chung,A S Cruz,126.0,---,---,---,---,---,---,2026/05/03,
-1.0,4,TURQUOISE VELOCITY (K533),,,,,,,,,,2026/05/03,Sent for sampling post-race.
-2.0,6,MY MARS (L301),,,,,,,,,,2026/05/03,Bumped at the start. Sent for sampling post-race.
-3.0,1,CROSSBORDERPEGASUS (K008),,,,,,,,,,2026/05/03,Slow to begin. Lay in in the Home Straight.
-4.0,2,SMART GOLF (L004),,,,,,,,,,2026/05/03,No report.
-5.0,3,YOUNG EMPEROR (K011),,,,,,,,,,2026/05/03,No report.
-6.0,7,MAJESTIC VALOUR (L016),,,,,,,,,,2026/05/03,Shifted in on jumping and made contact with TACTICAL HORIZONS. Near the 200 Metres M F Poon dropped his whip. Raced wide and without cover for the majority of the event. Noted to have lost its right front plate and to have sustained a minor abrasion to the left front leg after the race.
-7.0,12,WINNING BUDDIES (L092),,,,,,,,,,2026/05/03,Near the 500 Metres was bumped by LADY’S LOVE which was taken out. The explanation offered by K C Leung for returning to scale 2 lbs over the weight at which he weighed out at was accepted.
-8.0,9,MAGNEMITE (K549),,,,,,,,,,2026/05/03,No report.
-9.0,10,SCORCHING LEGEND (L081),,,,,,,,,,2026/05/03,No report.
-10.0,8,THOUSAND SPIRIT (K365),,,,,,,,,,2026/05/03,"L Hewitson stated that his mount did not appreciate the ""Soft” track conditions. A veterinary inspection immediately following the race did not show any significant findings."
-11.0,11,TACTICAL HORIZONS (L173),,,,,,,,,,2026/05/03,On jumping was bumped by MAJESTIC VALOUR which shifted in.
-12.0,14,ALMIGHTY LIGHTNING (L126),,,,,,,,,,2026/05/03,"Shifted in on jumping and made contact with MY MARS. Near the 300 Metres made contact with LADY’S LOVE due to both runners shifting ground. A Atzeni stated that his mount failed to handle the ""Soft” track conditions. Trainer K L Man advised the horse had pleased him leading into the race and agreed with the assessment of Jockey Atzeni. A veterinary inspection immediately following the race did not show any significant findings. Sent for sampling post-race."
-13.0,13,LADY'S LOVE (L220),,,,,,,,,,2026/05/03,Near the 500 Metres shifted out and made contact with WINNING BUDDIES. Near the 300 Metres made contact with ALMIGHTY LIGHTNING due to both runners shifting ground.
-,5,DO YOU JUST (L094),,,,,,,,,,2026/05/03,"Withdrawn by order of the Stewards acting on veterinary advice after it was found to be lame in the left hind leg prior to the race. Before being allowed to race again, DO YOU JUST will be subjected to an official veterinary examination."
+Pla.,Horse No.,Horse,Jockey,Trainer,Act. Wt.,Declar. Horse Wt.,Dr.,LBW,Running Position,Finish Time,Win Odds,date
+1,7,BLAZING WIND (J157),Z Purton,C S Shum,122,1268,2,---,2 2 1,1:08.88,3.2,2026/05/06
+2,2,VICTORY SKY (J540),H Y Yuen,P F Yiu,125,1149,3,5-3/4,10 9 2,1:09.81,4.4,2026/05/06
+3,4,AURORA PATCH (K097),H Bowman,K L Man,130,1247,10,6-1/4,4 3 3,1:09.86,5.8,2026/05/06
+4,9,SUPER JOY N FUN (J164),A Badel,C W Chang,117,1100,8,7-1/2,7 7 4,1:10.07,14.0,2026/05/06
+5,11,TARGET AUDIENCE (K107),M L Yeung,C Fownes,115,1097,1,7-3/4,3 4 5,1:10.11,6.2,2026/05/06
+6,8,MUST GO (J133),A Atzeni,J Size,120,1201,4,9,9 8 6,1:10.33,13.0,2026/05/06
+7,12,GIANT SPIRIT (L169),H T Mo,Y S Tsui,113,1157,12,10-1/2,1 1 7,1:10.58,45.0,2026/05/06
+8,5,SYMBOL OF STRENGTH (K352),L Ferraris,F C Lor,128,1131,7,12-1/2,5 5 8,1:10.88,33.0,2026/05/06
+9,6,CITY GOLD BANNER (L155),J Orman,J Richards,123,1222,9,13,6 6 9,1:10.96,71.0,2026/05/06
+10,3,GALACTIC VOYAGE (K514),C L Chau,K W Lui,129,1077,5,14-3/4,12 11 10,1:11.26,14.0,2026/05/06
+11,1,ROMANTIC SON (J537),H Bentley,D A Hayes,135,1178,6,16-3/4,11 10 11,1:11.57,20.0,2026/05/06
+12,10,HIGH PRAISE (L316),M Chadwick,W K Mo,115,1074,11,18,8 12 12,1:11.75,54.0,2026/05/06
