@@ -1,25 +1,23 @@
 Pla.,Horse No.,Horse,Jockey,Trainer,Act. Wt.,Declar. Horse Wt.,Dr.,LBW,Running Position,Finish Time,Win Odds,date,Incident
-1,4,PATCH OF STARS (J343),H Bowman,K L Man,124.0,1174.0,3.0,---,8 7 1,1:09.07,6.9,2026/05/09,
-2,2,CRIMSON FLASH (K173),A Atzeni,M Newnham,129.0,1082.0,10.0,1,12 12 2,1:09.23,25.0,2026/05/09,
-3,12,PUBLIC ATTENTION (L035),K Teetan,B Crawford,115.0,1166.0,2.0,1,5 5 3,1:09.23,9.8,2026/05/09,
-4,11,HOT DELIGHT (K583),H Bentley,K W Lui,115.0,1094.0,11.0,1-1/4,2 2 4,1:09.26,2.1,2026/05/09,
-5,1,LUCKY WITH YOU (E356),H Y Yuen,F C Lor,125.0,1217.0,7.0,1-1/4,7 8 5,1:09.27,26.0,2026/05/09,
-6,6,BULB GENERAL (K218),J Moreira,J Richards,118.0,1242.0,4.0,2-1/4,11 10 6,1:09.44,4.7,2026/05/09,
-7,9,LADY'S CHOICE (H155),M F Poon,C W Chang,116.0,1149.0,12.0,2-1/2,3 3 7,1:09.46,59.0,2026/05/09,
-8,7,VICTOR THE WINNER (G404),M L Yeung,P C Ng,115.0,1087.0,8.0,2-1/2,1 1 8,1:09.47,73.0,2026/05/09,
-9,8,GUSTOSISIMO (J303),Y L Chung,A S Cruz,113.0,1211.0,6.0,2-1/2,10 11 9,1:09.48,67.0,2026/05/09,
-10,10,AKASHVANI (K234),P N Wong,D A Hayes,108.0,1106.0,1.0,3-3/4,9 9 10,1:09.66,25.0,2026/05/09,
-11,3,INVINCIBLE SAGE (H301),J Orman,D J Hall,127.0,1133.0,9.0,4-1/2,4 6 11,1:09.80,31.0,2026/05/09,
-12,5,YOUNG CHAMPION (J195),B Avdulla,J Size,122.0,1149.0,5.0,5,6 4 12,1:09.88,10.0,2026/05/09,
-1,4,PATCH OF STARS (J343),,,,,,,,,,2026/05/09,Bumped on jumping. Shifted to the outside of YOUNG CHAMPION near the 350 Metres and made contact with LUCKY WITH YOU. Sent for sampling post-race.
-2,2,CRIMSON FLASH (K173),,,,,,,,,,2026/05/09,Slow to begin. Sent for sampling post-race.
-3,12,PUBLIC ATTENTION (L035),,,,,,,,,,2026/05/09,Shortly after the start was bumped by AKASHAVANI which shifted out.
-4,11,HOT DELIGHT (K583),,,,,,,,,,2026/05/09,Sent for sampling post-race.
-5,1,LUCKY WITH YOU (E356),,,,,,,,,,2026/05/09,Near the 350 Metres was bumped by PATCH OF STARS which shifted to the outside of YOUNG CHAMPION to improve. Apprentice H Y Yuen reported that under pressure in the Home Straight her mount lay in.
-6,6,BULB GENERAL (K218),,,,,,,,,,2026/05/09,Jumped awkwardly and lost ground. Shortly after the start was then steadied when crowded between PATCH OF STARS and YOUNG CHAMPION which shifted in.
-7,9,LADY'S CHOICE (H155),,,,,,,,,,2026/05/09,Raced wide and without cover for the majority of the event.
-8,7,VICTOR THE WINNER (G404),,,,,,,,,,2026/05/09,Bumped near the 1100 Metres.
-9,8,GUSTOSISIMO (J303),,,,,,,,,,2026/05/09,No report.
-10,10,AKASHVANI (K234),,,,,,,,,,2026/05/09,Apprentice P N Wong stated that her instructions were to go forward and attempt to lead. She said despite riding her mount along in the early stages it failed to show sufficient pace to do so.
-11,3,INVINCIBLE SAGE (H301),,,,,,,,,,2026/05/09,Near the 1100 Metres shifted in and made contact with VICTOR THE WINNER. J Orman stated that the instructions were to go forward. He said when INVINCIBLE SAGE jumped well he was able to comply with those instructions. Trainer D J Hall confirmed the instructions and stated that he issued those instructions as he was of the opinion there was not strong pace drawn to the horse’s inside. A veterinary inspection immediately following the race did not show any significant findings.
-12,5,YOUNG CHAMPION (J195),,,,,,,,,,2026/05/09,"Shifted in at the start and was bumped. Raced keenly in the early stages. B Avdulla stated that after improving making the Home Turn behind LADY’S CHOICE his mount failed to respond to his riding in the Home Straight which he attributed to it not appreciating the ""Good to Yielding” track conditions. A veterinary inspection immediately following the race did not show any significant findings."
+1,9,PACKING ANGEL (J454),H Bentley,K W Lui,119.0,1083.0,2.0,---,7 7 8 1,1:38.67,8.9,2026/05/13,
+2,4,SOLEIL FIGHTER (J127),H Bowman,D A Hayes,130.0,1109.0,6.0,1-3/4,1 1 1 2,1:38.94,5.1,2026/05/13,
+3,10,BEAUTY ALLIANCE (J260),K Teetan,J Size,118.0,1225.0,11.0,2-1/4,2 2 2 3,1:39.03,5.1,2026/05/13,
+4,8,SILVERY BREEZE (K057),A Atzeni,D Eustace,120.0,1125.0,8.0,3-1/4,9 10 10 4,1:39.19,8.4,2026/05/13,
+5,2,HELENE FEELING (H215),E Brown,C S Shum,134.0,1253.0,1.0,3-1/2,3 4 3 5,1:39.23,6.5,2026/05/13,
+6,5,AWESOME FLUKE (J050),J Orman,P F Yiu,125.0,1202.0,3.0,3-1/2,5 5 5 6,1:39.24,14.0,2026/05/13,
+7,11,LO RIDER (K161),J Moreira,C Fownes,118.0,1032.0,5.0,3-3/4,6 6 6 7,1:39.27,5.9,2026/05/13,
+8,1,SPEED DRAGON (H380),C Y Ho,K W Lui,135.0,1160.0,9.0,4-1/4,11 11 11 8,1:39.36,13.0,2026/05/13,
+9,6,INFINITE RESOLVE (K369),A Badel,M Newnham,122.0,1070.0,10.0,4-1/2,8 8 7 9,1:39.40,20.0,2026/05/13,
+10,7,KAHOLO ANGEL (H216),E C W Wong,C Fownes,118.0,1185.0,7.0,5-1/4,10 9 9 10,1:39.51,23.0,2026/05/13,
+11,3,MOMENTS IN TIME (H474),C L Chau,C S Shum,129.0,1083.0,4.0,6,4 3 4 11,1:39.62,24.0,2026/05/13,
+1,9,PACKING ANGEL (J454),,,,,,,,,,2026/05/13,Jumped only fairly. Sent for sampling post-race.
+2,4,SOLEIL FIGHTER (J127),,,,,,,,,,2026/05/13,Sent for sampling post-race.
+3,10,BEAUTY ALLIANCE (J260),,,,,,,,,,2026/05/13,Sent for sampling post-race.
+4,8,SILVERY BREEZE (K057),,,,,,,,,,2026/05/13,No report.
+5,2,HELENE FEELING (H215),,,,,,,,,,2026/05/13,No report.
+6,5,AWESOME FLUKE (J050),,,,,,,,,,2026/05/13,"Approaching the winning post shifted in slightly, resulting in its rider J Orman having to correct his mount which resulted in him not riding it out to the finish."
+7,11,LO RIDER (K161),,,,,,,,,,2026/05/13,Shortly after the start shifted in and then became unbalanced when it made contact with MOMENTS IN TIME.
+8,1,SPEED DRAGON (H380),,,,,,,,,,2026/05/13,Jumped only fairly. From a wide barrier was shifted across behind runners in the early stages. When commencing to finish the race off well was disappointed for clear running between SILVERY BREEZE and AWESOME FLUKE and as a result could not be ridden out over the final 50 Metres. A veterinary inspection immediately following the race did not show any significant findings.
+9,6,INFINITE RESOLVE (K369),,,,,,,,,,2026/05/13,From a wide barrier was shifted across behind runners in the early stages. A Badel could offer no excuse for the horse’s failure to run on in the Home Straight. A veterinary inspection immediately following the race did not show any significant findings.
+10,7,KAHOLO ANGEL (H216),,,,,,,,,,2026/05/13,Raced keenly in the early stages.
+11,3,MOMENTS IN TIME (H474),,,,,,,,,,2026/05/13,Bumped shortly after the start. Raced wide and without cover for the majority of the event.
