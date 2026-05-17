@@ -1,23 +1,29 @@
 Pla.,Horse No.,Horse,Jockey,Trainer,Act. Wt.,Declar. Horse Wt.,Dr.,LBW,Running Position,Finish Time,Win Odds,date,Incident
-1,9,PACKING ANGEL (J454),H Bentley,K W Lui,119.0,1083.0,2.0,---,7 7 8 1,1:38.67,8.9,2026/05/13,
-2,4,SOLEIL FIGHTER (J127),H Bowman,D A Hayes,130.0,1109.0,6.0,1-3/4,1 1 1 2,1:38.94,5.1,2026/05/13,
-3,10,BEAUTY ALLIANCE (J260),K Teetan,J Size,118.0,1225.0,11.0,2-1/4,2 2 2 3,1:39.03,5.1,2026/05/13,
-4,8,SILVERY BREEZE (K057),A Atzeni,D Eustace,120.0,1125.0,8.0,3-1/4,9 10 10 4,1:39.19,8.4,2026/05/13,
-5,2,HELENE FEELING (H215),E Brown,C S Shum,134.0,1253.0,1.0,3-1/2,3 4 3 5,1:39.23,6.5,2026/05/13,
-6,5,AWESOME FLUKE (J050),J Orman,P F Yiu,125.0,1202.0,3.0,3-1/2,5 5 5 6,1:39.24,14.0,2026/05/13,
-7,11,LO RIDER (K161),J Moreira,C Fownes,118.0,1032.0,5.0,3-3/4,6 6 6 7,1:39.27,5.9,2026/05/13,
-8,1,SPEED DRAGON (H380),C Y Ho,K W Lui,135.0,1160.0,9.0,4-1/4,11 11 11 8,1:39.36,13.0,2026/05/13,
-9,6,INFINITE RESOLVE (K369),A Badel,M Newnham,122.0,1070.0,10.0,4-1/2,8 8 7 9,1:39.40,20.0,2026/05/13,
-10,7,KAHOLO ANGEL (H216),E C W Wong,C Fownes,118.0,1185.0,7.0,5-1/4,10 9 9 10,1:39.51,23.0,2026/05/13,
-11,3,MOMENTS IN TIME (H474),C L Chau,C S Shum,129.0,1083.0,4.0,6,4 3 4 11,1:39.62,24.0,2026/05/13,
-1,9,PACKING ANGEL (J454),,,,,,,,,,2026/05/13,Jumped only fairly. Sent for sampling post-race.
-2,4,SOLEIL FIGHTER (J127),,,,,,,,,,2026/05/13,Sent for sampling post-race.
-3,10,BEAUTY ALLIANCE (J260),,,,,,,,,,2026/05/13,Sent for sampling post-race.
-4,8,SILVERY BREEZE (K057),,,,,,,,,,2026/05/13,No report.
-5,2,HELENE FEELING (H215),,,,,,,,,,2026/05/13,No report.
-6,5,AWESOME FLUKE (J050),,,,,,,,,,2026/05/13,"Approaching the winning post shifted in slightly, resulting in its rider J Orman having to correct his mount which resulted in him not riding it out to the finish."
-7,11,LO RIDER (K161),,,,,,,,,,2026/05/13,Shortly after the start shifted in and then became unbalanced when it made contact with MOMENTS IN TIME.
-8,1,SPEED DRAGON (H380),,,,,,,,,,2026/05/13,Jumped only fairly. From a wide barrier was shifted across behind runners in the early stages. When commencing to finish the race off well was disappointed for clear running between SILVERY BREEZE and AWESOME FLUKE and as a result could not be ridden out over the final 50 Metres. A veterinary inspection immediately following the race did not show any significant findings.
-9,6,INFINITE RESOLVE (K369),,,,,,,,,,2026/05/13,From a wide barrier was shifted across behind runners in the early stages. A Badel could offer no excuse for the horse’s failure to run on in the Home Straight. A veterinary inspection immediately following the race did not show any significant findings.
-10,7,KAHOLO ANGEL (H216),,,,,,,,,,2026/05/13,Raced keenly in the early stages.
-11,3,MOMENTS IN TIME (H474),,,,,,,,,,2026/05/13,Bumped shortly after the start. Raced wide and without cover for the majority of the event.
+1,3,BRILLIANT EXPRESS (J321),H Bowman,J Size,131.0,1174.0,1.0,---,4 5 4 1,1:23.70,5.0,2026/05/17,
+2,7,ALL'S WELL (K294),C Y Ho,C H Yip,126.0,1082.0,5.0,3/4,10 9 9 2,1:23.84,20.0,2026/05/17,
+3,2,AEROVOLANIC (K400),Z Purton,P C Ng,133.0,1130.0,14.0,2,7 4 5 3,1:24.00,6.7,2026/05/17,
+4,9,KEMPES (J265),J Orman,D J Hall,125.0,1115.0,12.0,3-1/4,14 13 10 4,1:24.22,50.0,2026/05/17,
+5,10,COMPLETE UNKNOWN (L219),K C Leung,W K Mo,124.0,1156.0,13.0,3-3/4,6 8 11 5,1:24.29,36.0,2026/05/17,
+6,5,DREAMING TOGETHER (L215),C L Chau,B Crawford,126.0,1241.0,10.0,4,12 14 13 6,1:24.34,124.0,2026/05/17,
+7,4,URANUS STAR (K511),H Y Yuen,K W Lui,119.0,1122.0,4.0,4,2 2 1 7,1:24.35,10.0,2026/05/17,
+8,1,EVERYONE'S STAR (K172),J Moreira,F C Lor,134.0,1091.0,7.0,4-3/4,8 6 6 8,1:24.48,5.1,2026/05/17,
+9,8,HAPPY BOSS (K453),L Ferraris,D Eustace,126.0,1112.0,3.0,6-3/4,3 7 7 9,1:24.78,6.1,2026/05/17,
+10,11,WELL ENOUGH (L029),H Bentley,J Richards,124.0,1180.0,8.0,9,11 10 12 10,1:25.14,62.0,2026/05/17,
+11,14,TIN FOOK (K167),A Atzeni,P F Yiu,120.0,1173.0,11.0,13-3/4,1 1 2 11,1:25.92,8.3,2026/05/17,
+12,13,GHORGAN (K199),A Badel,K L Man,122.0,1104.0,9.0,14-1/4,13 11 8 12,1:25.97,8.5,2026/05/17,
+13,6,NATURAL NUMBERS (L166),E Brown,Y S Tsui,127.0,1125.0,6.0,15-3/4,5 3 3 13,1:26.20,20.0,2026/05/17,
+14,12,WITHOUT RHYME (L077),Y L Chung,A S Cruz,122.0,1081.0,2.0,20,9 12 14 14,1:26.88,141.0,2026/05/17,
+1,3,BRILLIANT EXPRESS (J321),,,,,,,,,,2026/05/17,Sent for sampling post-race.
+2,7,ALL'S WELL (K294),,,,,,,,,,2026/05/17,Bumped at the start. Sent for sampling post-race.
+3,2,AEROVOLANIC (K400),,,,,,,,,,2026/05/17,Near the 400 Metres was shifted to the outside of TIN FOOK to improve. Approaching the 350 Metres AEROVOLANIC became unbalanced when it made contact with EVERYONE’S STAR which lay in.
+4,9,KEMPES (J265),,,,,,,,,,2026/05/17,From a wide barrier was shifted across behind runners in the early stages.
+5,10,COMPLETE UNKNOWN (L219),,,,,,,,,,2026/05/17,Raced very wide and without cover for the majority of the event.
+6,5,DREAMING TOGETHER (L215),,,,,,,,,,2026/05/17,Bumped after the 1300 Metres.
+7,4,URANUS STAR (K511),,,,,,,,,,2026/05/17,On jumping made contact with the left side of the starting gate. Shortly after URANUS STAR bumped with ALL’S WELL.
+8,1,EVERYONE'S STAR (K172),,,,,,,,,,2026/05/17,J Moreira reported that his mount lay in when placed under pressure in the Home Straight and its run ended near the 150 Metres where it commenced to give ground. A veterinary inspection immediately following the race did not show any significant findings.
+9,8,HAPPY BOSS (K453),,,,,,,,,,2026/05/17,"L Ferraris reported that his mount was not comfortable on the ""Yielding” track conditions."
+10,11,WELL ENOUGH (L029),,,,,,,,,,2026/05/17,Jumped only fairly. After the 1300 Metres made contact with DREAMING TOGETHER and raced tight to the inside of that runner.
+11,14,TIN FOOK (K167),,,,,,,,,,2026/05/17,"A Atzeni reported that he was instructed to go forward. He said TIN FOOK raced wide and without cover for the majority of the event and failed to run out the 1400 Metres on the ""Yielding” track. A veterinary inspection immediately following the race did not show any significant findings."
+12,13,GHORGAN (K199),,,,,,,,,,2026/05/17,Bounded on jumping and lost ground. A Badel stated that his mount was able to obtain a position behind midfield where it travelled satisfactorily. He said under pressure in the Home Straight GHORGAN failed to respond to his riding. A veterinary inspection immediately following the race did not show any significant findings.
+13,6,NATURAL NUMBERS (L166),,,,,,,,,,2026/05/17,Bumped at the start. E Brown stated that the instructions were to be handy but after being caught wide in the early stages he allowed his mount to stride forward to avoid covering additional ground.
+14,12,WITHOUT RHYME (L077),,,,,,,,,,2026/05/17,"The performance of WITHOUT RHYME, which finished tailed out, was considered unacceptable. Before being allowed to race again, WITHOUT RHYME will be required to perform to the satisfaction of the Stewards in a barrier trial and be subjected to an official veterinary examination. A veterinary inspection immediately following the race did not show any significant findings."
