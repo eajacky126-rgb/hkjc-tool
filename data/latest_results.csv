@@ -1,25 +1,29 @@
 Pla.,Horse No.,Horse,Jockey,Trainer,Act. Wt.,Declar. Horse Wt.,Dr.,LBW,Running Position,Finish Time,Win Odds,date,Incident
-1,4,WITHOUT COMPARE (L151),C L Chau,C S Shum,128.0,1133.0,11.0,---,6 6 5 1,1:39.18,3.9,2026/06/03,
-2,10,STORMI (K084),K Teetan,W K Mo,117.0,1162.0,1.0,NOSE,1 1 1 2,1:39.18,13.0,2026/06/03,
-3,3,FIVEFORTWO (K381),L Ferraris,K W Lui,131.0,1070.0,7.0,1-1/4,5 5 6 3,1:39.38,4.5,2026/06/03,
-4,12,ANOTHER ZONDA (K176),M Chadwick,Y S Tsui,116.0,1136.0,4.0,1-1/2,4 4 4 4,1:39.41,21.0,2026/06/03,
-5,1,SMART AVENUE (K474),Z Purton,C H Yip,135.0,1141.0,5.0,1-3/4,7 7 9 5,1:39.44,7.4,2026/06/03,
-6,8,CASA ROCHESTER (J494),Y L Chung,M Newnham,116.0,968.0,10.0,2-1/2,11 11 11 6,1:39.58,18.0,2026/06/03,
-7,9,CALIFORNIA MOXIE (J131),A Atzeni,A S Cruz,117.0,1160.0,2.0,3,8 9 8 7,1:39.66,12.0,2026/06/03,
-8,6,ALL ROUND WINNER (K382),H Bentley,D A Hayes,121.0,1131.0,8.0,3-1/4,3 2 2 8,1:39.69,6.9,2026/06/03,
-9 DH,2,MISTER DAPPER (H376),B Avdulla,D Eustace,134.0,1211.0,3.0,5-1/2,2 3 3 9,1:40.06,9.7,2026/06/03,
-9 DH,7,CLASS (L134),E C W Wong,P F Yiu,117.0,1166.0,6.0,5-1/2,9 10 12 9,1:40.06,101.0,2026/06/03,
-11,5,KEEFY (G306),M F Poon,F C Lor,128.0,1166.0,9.0,5-3/4,10 8 7 11,1:40.10,27.0,2026/06/03,
-12,11,YEE CHEONG GLORY (K074),A Badel,J Richards,117.0,1190.0,12.0,7-3/4,12 12 10 12,1:40.41,19.0,2026/06/03,
-1,4,WITHOUT COMPARE (L151),,,,,,,,,,2026/06/03,Bumped at the start. Near the 1500 Metres improved to the inside of SMART AVENUE and became unbalanced when it made contact with CALIFORNIA MOXIE. When being shifted in leaving the 300 Metres to obtain clear running made contact with ANOTHER ZONDA. Sent for sampling post-race.
-2,10,STORMI (K084),,,,,,,,,,2026/06/03,Sent for sampling post-race.
-3,3,FIVEFORTWO (K381),,,,,,,,,,2026/06/03,No report.
-4,12,ANOTHER ZONDA (K176),,,,,,,,,,2026/06/03,Leaving the 300 Metres became unbalanced when bumped by WITHOUT COMPARE (C L Chau) which shifted in. C L Chau was advised to exercise more care.
-5,1,SMART AVENUE (K474),,,,,,,,,,2026/06/03,For a short distance after the 1500 Metres was eased when positioned close to FIVEFORTWO. Held up on the Home Turn. Approaching the 250 Metres was steadied when disappointed for clear running between FIVEFORTWO and MISTER DAPPER which shifted out when positioned close to ALL ROUND WINNER. As a result SMART AVENUE was shifted to the inside of MISTER DAPPER to secure clear running.
-6,8,CASA ROCHESTER (J494),,,,,,,,,,2026/06/03,"Jumped awkwardly, shifted out and made contact with WITHOUT COMPARE."
-7,9,CALIFORNIA MOXIE (J131),,,,,,,,,,2026/06/03,"Jumped only fairly. Near the 1500 Metres WITHOUT COMPARE (C L Chau) improved quickly to the inside of SMART AVENUE as that runner was being shifted in. As a consequence WITHOUT COMPARE made contact with CALIFORNIA MOXIE, resulting in CALIFORNIA MOXIE becoming badly unbalanced when racing tight to the inside of WITHOUT COMPARE. C L Chau was reprimanded and advised that in similar circumstances he would be expected to show better judgement so that his mounts do not improve into positions where there is not comfortable racing room to do so."
-8,6,ALL ROUND WINNER (K382),,,,,,,,,,2026/06/03,Shifted out shortly after the start and was bumped. H Bentley stated that whilst the intention was to settle in a more forward position he was obliged to continue forward in the early stages to race outside the lead to avoid covering additional ground which resulted in ALL ROUND WINNER being left without a finishing effort in the Home Straight. A veterinary inspection immediately following the race did not show any significant findings.
-9 DH,2,MISTER DAPPER (H376),,,,,,,,,,2026/06/03,B Avdulla stated that his mount raced in a disappointing manner but he could offer no explanation for the performance. Trainer D Eustace advised that the horse had pleased him leading into the race but could offer no excuse in respect to its performance. A veterinary inspection immediately following the race did not show any significant findings.
-9 DH,7,CLASS (L134),,,,,,,,,,2026/06/03,A veterinary inspection immediately following the race did not show any significant findings.
-11,5,KEEFY (G306),,,,,,,,,,2026/06/03,Bumped shortly after the start. Raced wide and without cover from the 900 Metres where it commenced a forward move.
-12,11,YEE CHEONG GLORY (K074),,,,,,,,,,2026/06/03,From the outside barrier was shifted across behind runners in the early stages.
+1,7,CHILL EASY (L148),C L Chau,P F Yiu,126.0,1096.0,3.0,---,4 3 2 1,1:21.17,2.9,2026/06/07,
+2,5,RUN RUN SMART (K080),H Y Yuen,F C Lor,119.0,1134.0,5.0,3-3/4,1 1 1 2,1:21.78,6.5,2026/06/07,
+3,8,KING EQUINE (L379),H Bowman,C S Shum,128.0,1093.0,1.0,4,6 6 4 3,1:21.83,83.0,2026/06/07,
+4,13,M M CONCORD (L076),M Chadwick,W K Mo,120.0,1072.0,12.0,5,3 2 3 4,1:21.98,33.0,2026/06/07,
+5,6,THE UNIQUE STAR (L122),K Teetan,B Crawford,129.0,1114.0,8.0,5-3/4,2 4 5 5,1:22.09,8.3,2026/06/07,
+6,1,CHIU CHOW SPIRIT (H175),P N Wong,K L Man,128.0,1200.0,7.0,6-3/4,14 14 12 6,1:22.23,46.0,2026/06/07,
+7,3,FIT FOR BEAUTY (K489),Z Purton,J Size,133.0,1208.0,14.0,7,8 5 6 7,1:22.28,5.0,2026/06/07,
+8,14,RISING FROM ASHES (G209),L Hewitson,C W Chang,120.0,1003.0,4.0,7-1/2,10 13 8 8,1:22.39,23.0,2026/06/07,
+9,12,KEMPES (J265),A Atzeni,D J Hall,123.0,1122.0,2.0,7-3/4,12 8 7 9,1:22.41,18.0,2026/06/07,
+10,10,THUNDER ACTION (L314),M L Yeung,W Y So,124.0,1128.0,13.0,11,9 11 13 10,1:22.94,14.0,2026/06/07,
+11,4,THUNDER KIT (L121),C Y Ho,K W Lui,130.0,1181.0,9.0,12-1/2,11 9 9 11,1:23.19,9.7,2026/06/07,
+12,2,MAKE YOU SMILE (K426),J Moreira,D Eustace,134.0,1105.0,6.0,16-1/4,7 10 10 12,1:23.79,18.0,2026/06/07,
+13,11,WELL ENOUGH (L029),H Bentley,J Richards,124.0,1173.0,11.0,21-3/4,13 12 14 13,1:24.63,190.0,2026/06/07,
+14,9,TRUE BROTHERS (L381),A Badel,Y S Tsui,126.0,1153.0,10.0,22,5 7 11 14,1:24.69,100.0,2026/06/07,
+1,7,CHILL EASY (L148),,,,,,,,,,2026/06/07,Sent for sampling post-race.
+2,5,RUN RUN SMART (K080),,,,,,,,,,2026/06/07,Sent for sampling post-race.
+3,8,KING EQUINE (L379),,,,,,,,,,2026/06/07,Near the 450 Metres was shifted to the outside of M M CONCORD to improve and as a result made contact with THE UNIQUE STAR.
+4,13,M M CONCORD (L076),,,,,,,,,,2026/06/07,No report.
+5,6,THE UNIQUE STAR (L122),,,,,,,,,,2026/06/07,Near the 450 Metres was bumped and taken wider by KING EQUINE.
+6,1,CHIU CHOW SPIRIT (H175),,,,,,,,,,2026/06/07,Apprentice P N Wong reported that as the start was effected her mount turned its head to the left and as a result jumped awkwardly and lost ground.
+7,3,FIT FOR BEAUTY (K489),,,,,,,,,,2026/06/07,Z Purton reported that his mount was obliged to race wide and without cover for the majority of the event and in addition he had to make use of the horse in the early stages to cross runners to his inside. He added that as a result FIT FOR BEAUTY was unable to run on in the Home Straight. A veterinary inspection immediately following the race did not show any significant findings.
+8,14,RISING FROM ASHES (G209),,,,,,,,,,2026/06/07,The tongue tie was refitted at the Start.
+9,12,KEMPES (J265),,,,,,,,,,2026/06/07,On jumping made contact with the left side of its starting gate and lost ground.
+10,10,THUNDER ACTION (L314),,,,,,,,,,2026/06/07,A veterinary inspection immediately following the race did not show any significant findings.
+11,4,THUNDER KIT (L121),,,,,,,,,,2026/06/07,Jumped only fairly. A veterinary inspection immediately following the race did not show any significant findings.
+12,2,MAKE YOU SMILE (K426),,,,,,,,,,2026/06/07,Near the 1100 Metres was steadied to avoid TRUE BROTHERS (A Badel) which shifted in when not fully clear. A Badel was advised to exercise more care. J Moreira could offer no explanation for the disappointing performance. A veterinary inspection immediately following the race did not show any significant findings.
+13,11,WELL ENOUGH (L029),,,,,,,,,,2026/06/07,"Jumped only fairly. Throughout the early stages raced keenly. Near the 1100 Metres was steadied when crowded between THUNDER KIT which shifted out slightly and THUNDER ACTION which was racing tight to the inside of FIT FOR BEAUTY. WELL ENOUGH continued to race keenly for some distance thereafter. The performance of WELL ENOUGH, which finished tailed out, was considered unacceptable. Before being allowed to race again, WELL ENOUGH will be required to perform to the satisfaction of the Stewards in a barrier trial and be subjected to an official veterinary examination."
+14,9,TRUE BROTHERS (L381),,,,,,,,,,2026/06/07,"Shifted in shortly after the start and was corrected by its rider. The performance of TRUE BROTHERS, which finished tailed out, was considered unacceptable. Before being allowed to race again, TRUE BROTHERS will be required to perform to the satisfaction of the Stewards in a barrier trial and be subjected to an official veterinary examination."
