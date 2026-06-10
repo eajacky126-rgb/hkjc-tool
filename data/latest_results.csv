@@ -1,29 +1,27 @@
 Pla.,Horse No.,Horse,Jockey,Trainer,Act. Wt.,Declar. Horse Wt.,Dr.,LBW,Running Position,Finish Time,Win Odds,date,Incident
-1,7,CHILL EASY (L148),C L Chau,P F Yiu,126.0,1096.0,3.0,---,4 3 2 1,1:21.17,2.9,2026/06/07,
-2,5,RUN RUN SMART (K080),H Y Yuen,F C Lor,119.0,1134.0,5.0,3-3/4,1 1 1 2,1:21.78,6.5,2026/06/07,
-3,8,KING EQUINE (L379),H Bowman,C S Shum,128.0,1093.0,1.0,4,6 6 4 3,1:21.83,83.0,2026/06/07,
-4,13,M M CONCORD (L076),M Chadwick,W K Mo,120.0,1072.0,12.0,5,3 2 3 4,1:21.98,33.0,2026/06/07,
-5,6,THE UNIQUE STAR (L122),K Teetan,B Crawford,129.0,1114.0,8.0,5-3/4,2 4 5 5,1:22.09,8.3,2026/06/07,
-6,1,CHIU CHOW SPIRIT (H175),P N Wong,K L Man,128.0,1200.0,7.0,6-3/4,14 14 12 6,1:22.23,46.0,2026/06/07,
-7,3,FIT FOR BEAUTY (K489),Z Purton,J Size,133.0,1208.0,14.0,7,8 5 6 7,1:22.28,5.0,2026/06/07,
-8,14,RISING FROM ASHES (G209),L Hewitson,C W Chang,120.0,1003.0,4.0,7-1/2,10 13 8 8,1:22.39,23.0,2026/06/07,
-9,12,KEMPES (J265),A Atzeni,D J Hall,123.0,1122.0,2.0,7-3/4,12 8 7 9,1:22.41,18.0,2026/06/07,
-10,10,THUNDER ACTION (L314),M L Yeung,W Y So,124.0,1128.0,13.0,11,9 11 13 10,1:22.94,14.0,2026/06/07,
-11,4,THUNDER KIT (L121),C Y Ho,K W Lui,130.0,1181.0,9.0,12-1/2,11 9 9 11,1:23.19,9.7,2026/06/07,
-12,2,MAKE YOU SMILE (K426),J Moreira,D Eustace,134.0,1105.0,6.0,16-1/4,7 10 10 12,1:23.79,18.0,2026/06/07,
-13,11,WELL ENOUGH (L029),H Bentley,J Richards,124.0,1173.0,11.0,21-3/4,13 12 14 13,1:24.63,190.0,2026/06/07,
-14,9,TRUE BROTHERS (L381),A Badel,Y S Tsui,126.0,1153.0,10.0,22,5 7 11 14,1:24.69,100.0,2026/06/07,
-1,7,CHILL EASY (L148),,,,,,,,,,2026/06/07,Sent for sampling post-race.
-2,5,RUN RUN SMART (K080),,,,,,,,,,2026/06/07,Sent for sampling post-race.
-3,8,KING EQUINE (L379),,,,,,,,,,2026/06/07,Near the 450 Metres was shifted to the outside of M M CONCORD to improve and as a result made contact with THE UNIQUE STAR.
-4,13,M M CONCORD (L076),,,,,,,,,,2026/06/07,No report.
-5,6,THE UNIQUE STAR (L122),,,,,,,,,,2026/06/07,Near the 450 Metres was bumped and taken wider by KING EQUINE.
-6,1,CHIU CHOW SPIRIT (H175),,,,,,,,,,2026/06/07,Apprentice P N Wong reported that as the start was effected her mount turned its head to the left and as a result jumped awkwardly and lost ground.
-7,3,FIT FOR BEAUTY (K489),,,,,,,,,,2026/06/07,Z Purton reported that his mount was obliged to race wide and without cover for the majority of the event and in addition he had to make use of the horse in the early stages to cross runners to his inside. He added that as a result FIT FOR BEAUTY was unable to run on in the Home Straight. A veterinary inspection immediately following the race did not show any significant findings.
-8,14,RISING FROM ASHES (G209),,,,,,,,,,2026/06/07,The tongue tie was refitted at the Start.
-9,12,KEMPES (J265),,,,,,,,,,2026/06/07,On jumping made contact with the left side of its starting gate and lost ground.
-10,10,THUNDER ACTION (L314),,,,,,,,,,2026/06/07,A veterinary inspection immediately following the race did not show any significant findings.
-11,4,THUNDER KIT (L121),,,,,,,,,,2026/06/07,Jumped only fairly. A veterinary inspection immediately following the race did not show any significant findings.
-12,2,MAKE YOU SMILE (K426),,,,,,,,,,2026/06/07,Near the 1100 Metres was steadied to avoid TRUE BROTHERS (A Badel) which shifted in when not fully clear. A Badel was advised to exercise more care. J Moreira could offer no explanation for the disappointing performance. A veterinary inspection immediately following the race did not show any significant findings.
-13,11,WELL ENOUGH (L029),,,,,,,,,,2026/06/07,"Jumped only fairly. Throughout the early stages raced keenly. Near the 1100 Metres was steadied when crowded between THUNDER KIT which shifted out slightly and THUNDER ACTION which was racing tight to the inside of FIT FOR BEAUTY. WELL ENOUGH continued to race keenly for some distance thereafter. The performance of WELL ENOUGH, which finished tailed out, was considered unacceptable. Before being allowed to race again, WELL ENOUGH will be required to perform to the satisfaction of the Stewards in a barrier trial and be subjected to an official veterinary examination."
-14,9,TRUE BROTHERS (L381),,,,,,,,,,2026/06/07,"Shifted in shortly after the start and was corrected by its rider. The performance of TRUE BROTHERS, which finished tailed out, was considered unacceptable. Before being allowed to race again, TRUE BROTHERS will be required to perform to the satisfaction of the Stewards in a barrier trial and be subjected to an official veterinary examination."
+1.0,11.0,TARGET AUDIENCE (K107),J Moreira,C Fownes,123.0,1090,2,---,4 4 1,1:09.38,4.3,2026/06/10,
+2.0,1.0,FLYING WROTE (J290),C L Chau,A S Cruz,133.0,1157,4,1-3/4,5 6 2,1:09.65,3.8,2026/06/10,
+3.0,4.0,MOTOR (K165),K Teetan,W K Mo,127.0,1199,10,1-3/4,10 11 3,1:09.68,10,2026/06/10,
+4.0,6.0,STORMING DRAGON (J237),A Badel,J Richards,127.0,1260,1,3,8 7 4,1:09.84,5,2026/06/10,
+5.0,12.0,ARGENTO OCEAN (K322),B Avdulla,D J Whyte,120.0,1073,9,3,6 5 5,1:09.87,6.4,2026/06/10,
+6.0,3.0,NORTHERN FIRE BALL (J488),P N Wong,C H Yip,121.0,1153,12,4-1/2,1 1 6,1:10.11,27,2026/06/10,
+7.0,2.0,LIFELINE EXPRESS (H439),E Brown,J Size,129.0,1150,5,4-3/4,9 9 7,1:10.14,11,2026/06/10,
+8.0,8.0,SUGAR GOODSON (L303),L Hewitson,C S Shum,125.0,1034,11,6-1/4,12 12 8,1:10.37,85,2026/06/10,
+9.0,5.0,EVER LUCK (K235),J Orman,M Newnham,127.0,1117,8,9-1/2,11 10 9,1:10.88,11,2026/06/10,
+10.0,10.0,VIGOR HAPPINESS (L284),H T Mo,Y S Tsui,122.0,1001,6,15-3/4,7 8 10,1:11.90,137,2026/06/10,
+11.0,9.0,KANSAS (L305),E C W Wong,D A Hayes,121.0,997,3,16,3 2 11,1:11.96,80,2026/06/10,
+12.0,7.0,DASHING BASICS (L224),K C Leung,P C Ng,126.0,1184,7,18,2 3 12,1:12.27,47,2026/06/10,
+,,SPORTS LEGEND (H456),Y L Chung,D Eustace,125.0,---,---,---,---,---,---,2026/06/10,
+1.0,11.0,TARGET AUDIENCE (K107),,,,,,,,,,2026/06/10,Bumped at the start. Bumped approaching the 1100 Metres. Sent for sampling post-race.
+2.0,1.0,FLYING WROTE (J290),,,,,,,,,,2026/06/10,Leaving the 600 Metres was briefly crowded between ARGENTO OCEAN and TARGET AUDIENCE which shifted out slightly. Sent for sampling post-race.
+3.0,4.0,MOTOR (K165),,,,,,,,,,2026/06/10,No report.
+4.0,6.0,STORMING DRAGON (J237),,,,,,,,,,2026/06/10,Bumped at the start. Held up on the Home Turn.
+5.0,12.0,ARGENTO OCEAN (K322),,,,,,,,,,2026/06/10,Lay in when placed under pressure in the Home Straight.
+6.0,3.0,NORTHERN FIRE BALL (J488),,,,,,,,,,2026/06/10,"When questioned Apprentice P N Wong stated that her instructions were to go forward and lead from the outside barrier. She said in accordance with her instructions she rode her mount along in the early stages to obtain the lead. She said after entering the Back Straight leaving the 1000 Metres NORTHERN FIRE BALL raced a little keenly which resulted in the early stages of the event being run inside of standard time. She added that after leaving the 600 Metres she commenced to urge her mount forward to take advantage of the lead she had established, but soon after entering the Home Straight NORTHERN FIRE BALL came under pressure before giving ground. When questioned if there was an opportunity to ride the horse in a more conservative manner from the 600 Metres Apprentice Wong agreed with the Stewards that she had placed her mount under pressure too soon and in the circumstances she should have given NORTHERN FIRE BALL the opportunity to race at a more sustainable pace in the middle stages. She was advised that as she continues to gain experience she would be expected to ride with better judgement than what she did on this occasion."
+7.0,2.0,LIFELINE EXPRESS (H439),,,,,,,,,,2026/06/10,Jumped only fairly.
+8.0,8.0,SUGAR GOODSON (L303),,,,,,,,,,2026/06/10,Hampered on jumping when crowded by MOTOR which shifted out. From a wide barrier was then shifted across behind runners in the early stages. Between the 350 Metres and the 200 Metres was held up for clear running.
+9.0,5.0,EVER LUCK (K235),,,,,,,,,,2026/06/10,Near the 350 Metres was steadied to avoid STORMING DRAGON. Hung in when placed under pressure in the Home Straight. J Orman stated that his mount jumped awkwardly and lost ground which resulted in EVER LUCK settling further back than intended. A veterinary inspection immediately following the race did not show any significant findings.
+10.0,10.0,VIGOR HAPPINESS (L284),,,,,,,,,,2026/06/10,Raced keenly throughout the early and middle stages and refused to settle.
+11.0,9.0,KANSAS (L305),,,,,,,,,,2026/06/10,Approaching the 1100 Metres shifted in and made contact with TARGET AUDIENCE when racing tight to the inside of FLYING WROTE. Brushed the running rail near the 600 Metres. A veterinary inspection immediately following the race did not show any significant findings.
+12.0,7.0,DASHING BASICS (L224),,,,,,,,,,2026/06/10,"Noted to have bled from both nostrils after the race. Before being allowed to race again, DASHING BASICS will be required to perform satisfactorily in a barrier trial and be subjected to an official veterinary examination."
+,,SPORTS LEGEND (H456),,,,,,,,,,2026/06/10,Withdrawn on 9.6.26 by order of the Stewards acting on veterinary advice (left front tendon injury) and replaced by Standby Declared Starter EVER LUCK.
